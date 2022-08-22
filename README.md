@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @ASMITA3183
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Asmita Mhetre
+- 👀 I’m interested in **Computer Engineering**
+- 🌱 I’m currently learning *CP*, `.cpp`, `.py`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+## H2
+### H3
+
+# Profile
+
+- [CodeChef](https://www.codechef.com/users/asmita_20)
+
+> Hello World
+
+```
+var num = 5;
+```
 
 <!---
 ASMITA3183/ASMITA3183 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
