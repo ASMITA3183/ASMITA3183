@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asmita Mhetre
-- 👀 I’m interested in **Computer Engineering**
+- 👀 I’m interested in **computative programming **
 - 🌱 I’m currently learning *CP*, `.cpp`, `.py`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
